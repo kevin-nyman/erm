@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\erm\erm\bin\Debug\net8.0\erm.exe
+C:\Users\Kevin\Documents\erm\erm\bin\Debug\net8.0\erm.deps.json
+C:\Users\Kevin\Documents\erm\erm\bin\Debug\net8.0\erm.runtimeconfig.json
+C:\Users\Kevin\Documents\erm\erm\bin\Debug\net8.0\erm.dll
+C:\Users\Kevin\Documents\erm\erm\bin\Debug\net8.0\erm.pdb
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.AssemblyInfo.cs
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.dll
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\refint\erm.dll
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.pdb
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\erm.genruntimeconfig.cache
+C:\Users\Kevin\Documents\erm\erm\obj\Debug\net8.0\ref\erm.dll
